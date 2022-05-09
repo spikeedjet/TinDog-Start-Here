@@ -23,6 +23,7 @@ h2{
 }
 h3{
   font-family: 'Ubuntu';
+
 }
 
 p{
@@ -57,7 +58,7 @@ a.navbar-brand{
 
 /* features */
 #features{
-  padding: 9% 15%;
+  padding: 15% 15%;
 }
 
 .feature-box{
@@ -82,6 +83,9 @@ a.navbar-brand{
   width: 10%;
   border-radius: 100%;
 }
+.carousel-item{
+
+}
 
 #press{
   background-color: #ef8172;
@@ -91,4 +95,24 @@ a.navbar-brand{
 .press-img{
   width:15%;
   margin: 0 3%;
+}
+
+
+/* pricing */
+#pricing{
+  text-align: center;
+  padding: 3% 8%;
+}
+
+
+.pricing-h2{
+  color: black;
+}
+.card{
+  width: 22rem!important;
+  padding: 3% 0;
+
+  margin: 5% auto ;
+
+
 }
