@@ -13,7 +13,7 @@ body{
 }
 h1{
   font-family: 'Montserrat';
-  font-size: 3.5rem!important;
+  font-size: 3rem!important;
   line-height: 1.5!important;
 }
 h2{
@@ -50,15 +50,19 @@ a.navbar-brand{
 }
 /* Title images */
 .title-image{
-  width: 60%;
-  transform: rotate(30deg); /* Equal to rotateZ(45deg) */
-  margin-left: 70px;
 
+  transform: rotate(30deg); /* Equal to rotateZ(45deg) */
+  /* margin-left: 10%; */
+  margin-bottom: 5%;
+  position: absolute;
+  width: 20%;
 }
 
 /* features */
 #features{
   padding: 15% 15%;
+  background-color: #fff;
+  position: relative;
 }
 
 .feature-box{
