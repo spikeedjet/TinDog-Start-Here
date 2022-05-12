@@ -125,3 +125,24 @@ a.navbar-brand{
     transform: rotate(0);
   }
 }
+
+/* cta */
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 5% 5%;
+}
+.h3_cta{
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  color: #fff;
+  margin: auto 20%;
+
+}
+#footer{
+  padding: 5% 10%;
+  text-align: center;
+}
+.footer-ico{
+  margin: 1% 1%;
+}
