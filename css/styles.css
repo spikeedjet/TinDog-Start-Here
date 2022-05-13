@@ -94,6 +94,7 @@ a.navbar-brand{
 /* press */
 #press{
   background-color: #ef8172;
+  text-align: center;
 }
 .press-img{
   width:15%;
